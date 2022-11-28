@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**VictorWollyver/VictorWollyver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, me chamo Victor Wollyver! 👋
 
-Here are some ideas to get you started:
+#### Tenho 18 anos e atualmente sou estudante na área de Desenvolvimento Web FullStack!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+<div align='center'>
+    <h1>Principais Tecnologias</h1>
+    
+    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
+</div>
+
